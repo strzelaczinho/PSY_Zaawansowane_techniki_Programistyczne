@@ -38,7 +38,7 @@ public List<HistoriaOperacji> zwrocListeHistoriOperacji(){  return obiektHistori
       
      public void wypiszWszystkieOperacje() 
       {
-         zwrocListeHistoriOperacji().stream().forEach(x-> System.out.println(x.getOperacja()));
+         zwrocListeHistoriOperacji().stream().limit(20).forEach(x-> System.out.println(x.getOperacja()));
       }
    
 }
