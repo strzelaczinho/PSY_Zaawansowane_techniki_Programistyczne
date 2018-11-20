@@ -3,6 +3,9 @@ public class ztp03
 {
 	public static void main(String[] args)
 	{
+                  
+           
+
 		Table table = new Table();
 		table.addCol(new HeaderString("AS"));
 		table.addCol(new HeaderInt(5));
