@@ -1,4 +1,4 @@
-package PS_3_Zadanie3_Kompozyt;
+package PS_3_Zadanie3_Dekorator;
 public class Main
     {
    public  static void main(String[] args)

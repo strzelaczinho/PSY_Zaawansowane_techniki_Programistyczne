@@ -1,4 +1,4 @@
-package PS_3_Zadanie3_Kompozyt;
+package PS_3_Zadanie3_Dekorator;
 
 import java.util.LinkedList;
 
